@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Para tirar uma foto ou gravar um vídeo, este aplicativo requer permissão para acessar a câmera";
+NSMicrophoneUsageDescription = "Para gravar áudio de um vídeo, este aplicativo requer permissão para acessar o microfone";
+NSPhotoLibraryUsageDescription = "Para fazer upload de dados, este aplicativo requer permissão para acessar a biblioteca de fotos";
+NSLocationWhenInUseUsageDescription = "Para pesquisar nas proximidades, este aplicativo requer acesso à sua localização atual.";
+NSFaceIDUsageDescription = "Este aplicativo requer permissões para realizar verificação biométrica";

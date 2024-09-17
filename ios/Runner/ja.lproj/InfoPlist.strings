@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "写真やビデオを撮影するには、このアプリケーションはカメラへのアクセス許可を必要とします";
+NSMicrophoneUsageDescription = "ビデオの音声を録音するには、このアプリケーションにはマイクへのアクセス許可が必要です";
+NSPhotoLibraryUsageDescription = "データをアップロードするには、このアプリには写真ライブラリへのアクセス許可が必要です";
+NSLocationWhenInUseUsageDescription = "近くを検索するには、このアプリは現在地にアクセスする必要があります。";
+NSFaceIDUsageDescription = "このアプリには生体認証を実行するための権限が必要です";
